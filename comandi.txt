@@ -1,3 +1,4 @@
 git clone https://github.com/MontaniEmanuele/3AIExample
 git add es.txt
+git commit -m "add es.txt"
 git push
